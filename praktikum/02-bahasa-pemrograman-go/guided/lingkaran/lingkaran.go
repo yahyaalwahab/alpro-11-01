@@ -9,5 +9,5 @@ func main(){
 
 	var luas float64 = pi * r * r
 	
-	fmt.Println(pi, r, luas)
+	fmt.Println(luas)
 }
